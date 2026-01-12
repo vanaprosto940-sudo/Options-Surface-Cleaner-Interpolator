@@ -1,6 +1,6 @@
 # Options Volatility Surface Cleaner & Interpolator
 
-> A quantitative finance tool built by a 10th-grade student to construct arbitrage-free implied volatility surfaces from real market data.
+> A quantitative finance tool built by a 10th-grade student Belous Ivan to construct arbitrage-free implied volatility surfaces from real market data.
 
 This project fetches live options data, cleans noise and static arbitrage violations, and builds a smooth, interpolatable volatility surface — a core component in derivatives pricing used by hedge funds and investment banks.
 
@@ -53,5 +53,6 @@ Proficiency in Python for quantitative finance (NumPy, SciPy, Pandas, Plotly)
 Skills in data engineering and scientific visualization
 Potential extensions include SVI parametrization, local volatility calibration, and integration with Russian market data (MOEX).
 
-Built with curiosity • For students, by a student
+Built with curiosity • For students, by a student. Belous Ivan
+
 ```
